@@ -1,9 +1,10 @@
-# Portuguese Agency Portfolio in Bootstrap
+# Psychology Marketing Studio Portfolio
 
-A Portuguese-language portfolio concept for a psychology marketing agency. I translated the supplied Photoshop design into a responsive site for the CodersTrust Bangladesh front-end course in 2017.
 
-The page presents the agency, its marketing services, its process, selected work and a contact section. HTML, CSS and Bootstrap implement the layout.
+A responsive Portuguese-language portfolio for a psychology marketing studio. The site presents the studio’s services, process, selected work and contact section.
 
-Open [index.html](index.html) locally or visit the [live demo](https://iammehedi1.github.io/Bootstrap-Final-Project/).
+Built in HTML, CSS and Bootstrap from a supplied Photoshop design for the CodersTrust Bangladesh front-end course.
+
+Open [index.html](index.html) locally or visit the [live demo](https://iammehedi1.github.io/psychology-marketing-portfolio/).
 
 ![Portfolio design reference](SITE_MARKETING.png)
